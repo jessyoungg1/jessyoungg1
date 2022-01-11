@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @jessyoungg1
 - 👀 I’m interested in blockchain development
-- 🌱 I’m currently learning solidity
-- 💞️ I’m looking to collaborate on ...
+- 🌱 I’m currently creating solidity projects
 - I have a youtube channel about cryptocurrencies called 'Interpret Crypto'
 - 📫 How to reach me: jess@interpretcrypto.com
 
